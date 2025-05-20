@@ -4,7 +4,7 @@ O xadrez se destaca como um dos passatempos de tabuleiro mais clássicos e aprec
 
 Cada peça do xadrez tem uma forma única de se mover, o que adiciona complexidade e encanto ao jogo. Entre essas peças, o bispo, a torre e a rainha se sobressaem, pois são importantes para construir planos tanto de ataque quanto de proteção durante o jogo.
 
-#Função do jogo
+# Função do jogo
 
 Simulação e reprodução das ações das seguintes peças do xadrez:
 
