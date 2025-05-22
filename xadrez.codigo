@@ -1,0 +1,22 @@
+#include <stdio.h>
+
+int main() {
+    // Mover a torre 5 casas para a direita (usando for)
+    for(int i = 0; i < 5; i++) {
+        printf("Direita.\n"); // Imprime a direção do movimento
+    }   
+
+    // Mover o bispo 5 casas na diagonal para a direita (usando while)
+    while (int i = 0; i < 5; i++) {
+        printf("Diagonal para a direita.\n"); // Imprime a direção do movimento
+    }
+
+    // Mover a rainha 8 casas para a esquerda (usando do while)
+    do (int i = 0; i < 8; i++) {
+        printf("Esquerda.\n"); // Imprime a direção do movimento
+    } while (i < 8);
+    // Corrigido: o loop do while deve ser usado corretamente
+
+    return 0;
+
+}
